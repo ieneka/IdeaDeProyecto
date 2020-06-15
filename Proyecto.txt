@@ -1,0 +1,8 @@
+Anàlisis del projecte
+
+1- Fa temps tinc un proyecte de ecommerce pensat relacionat amb el sector turista, 
+la web constaria principalment d'un mapa interactiu del món y un sistema de subscripcions de client.
+El mapa hauria d'estar força animat i que obreixi finestres emergent cuan cliques un pais, amb videos i
+rutas de viatges, reseñas de subscriptors, etc. Un punt important es que la web no funciona amb euro sino
+amb la propia seva moneda que es repartira mensualment entre els subscriptors, com si fos netflix.
+Planteixo aquet proyecta pero nose fins que punt es viable.
