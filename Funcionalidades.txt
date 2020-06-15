@@ -1,0 +1,8 @@
+Funcionalidades de la web:
+-Web Interactiva 
+-Log de subscriptores
+-Sistema de subscripción por niveles
+-Integración con otras páginas de viajes y Youtube
+-Introducción a nuevos clientes con presentación
+-Servicio de atención instantanea-bot..
+-Servicio de cambio de monedas por productos
